@@ -2,7 +2,7 @@ Olá! Me chamo Caio 👋
 
 - 🔭 Hoje eu estudo back-end
 - 🌱 Estudando C# .NET
-- 😄 Pronouns: ele/dele
+
 
 <div>
 <a href="https://github.com/caiosafb">
