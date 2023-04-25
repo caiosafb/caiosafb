@@ -1,4 +1,4 @@
-Olá! Me chamo Caio 👋
+Olá! Me chamo Caio 👋🏽
 
 - 🔭 Hoje eu estudo back-end
 - 🌱 Estudando C# .NET
