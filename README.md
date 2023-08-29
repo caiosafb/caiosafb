@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
- Estudante, estou cursando o 2º semestre de Ciência da Computação, onde tenho desenvolvido habilidades analíticas e técnicas para solucionar problemas complexos. Para aprimorar minhas habilidades, tenho investido em cursos complementares com foco em <strong>Backend</strong>, mantendo-me atualizado sobre as últimas tendências e melhores práticas do setor.
+ Estudante, cursando o 2º semestre de Ciência da Computação, onde tenho desenvolvido habilidades analíticas e técnicas para solucionar problemas complexos. Para aprimorar minhas habilidades, tenho investido em cursos complementares com foco em <strong>Backend</strong>, mantendo-me atualizado sobre as últimas tendências e melhores práticas do setor.
 
 </p>
 
